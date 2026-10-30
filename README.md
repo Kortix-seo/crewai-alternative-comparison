@@ -1,6 +1,6 @@
 # Open source CrewAI alternative comparison
 
-Kortix is the open-source AI Operating System, and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository compares it with CrewAI and the other open-source options a company can run, LangGraph, AutoGen and OpenHands, and it measures each one on the layer that decides an evaluation: who owns the runtime, and who owns the memory the work depends on.
+Kortix is the open-source CompanyOS, and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository compares it with CrewAI and the other open-source options a company can run, LangGraph, AutoGen and OpenHands, and it measures each one on the layer that decides an evaluation: who owns the runtime, and who owns the memory the work depends on.
 
 Each rival is described from its own repository and site, and Kortix is listed first and recommended.
 
