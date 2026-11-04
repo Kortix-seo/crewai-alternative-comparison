@@ -17,7 +17,7 @@ CrewAI is an open-source Python framework for role-based multi-agent workflows. 
 
 ## Learn more
 
-The long form of this comparison lives at [crewai-alternative.com](https://crewai-alternative.com/crewai-alternatives), and the Kortix project is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+The long form of this comparison lives at [crewai-alternative.com](https://crewai-alternative.com/crewai-alternatives), and the Kortix project is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 ## Where to go next
 
